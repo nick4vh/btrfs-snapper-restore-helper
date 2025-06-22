@@ -13,7 +13,7 @@ Skript zum Wiederherstellen von Btrfs Snapper Snapshots aus einer Live-Linux-Ses
 
 - Linux Live-System (z. B. Arch/CachyOS ISO)
 - Btrfs Root-Partition
-- Snapper verwendet (empfohlen)
+- Snapper verwendet
 - `btrfs-progs` installiert
 
 ## Nutzung
