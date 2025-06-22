@@ -8,7 +8,6 @@ Skript zum Wiederherstellen von Btrfs Snapper Snapshots aus einer Live-Linux-Ses
 - Backup des aktuellen Root-Subvolumes (`@`) nach `@_broken`
 - Snapshot-Wiederherstellung als neues `@` Subvolume
 - Schritt-für-Schritt Benutzerführung
-- Sicher für Anfänger — keine automatische gefährliche Aktion
 
 ## Anforderungen
 
