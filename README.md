@@ -19,7 +19,8 @@ Skript zum Wiederherstellen von Btrfs Snapper Snapshots aus einer Live-Linux-Ses
 ## Nutzung
 
 ```bash
-git clone https://github.com/dein-name/btrfs-snapper-restore-helper.git
+git clone https://github.com/nick4vh/btrfs-snapper-restore-helper.git
 cd btrfs-snapper-restore-helper
 chmod +x btrfs-snapper-restore.sh
 sudo ./btrfs-snapper-restore.sh
+
